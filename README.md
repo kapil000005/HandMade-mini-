@@ -1,2 +1,2 @@
-# HandMade-mini-
-handmade mini programms for coding practise + some tool that may come handy 
+# HandMade-mini
+handmade mini programmes for coding practice + some tool that may come handy
